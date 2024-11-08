@@ -27,13 +27,3 @@ If this dataset helps your research, please cite our papers:
       publisher={Elsevier}
     }
 
-    @article{balim2024creating,
-      title={Creating an AI fashioner through deep learning and computer vision},
-      author={Balim, Caner and Ozkan, Kemal},
-      journal={Evolving Systems},
-      volume={15},
-      number={3},
-      pages={717--729},
-      year={2024},
-      publisher={Springer}
-    }
